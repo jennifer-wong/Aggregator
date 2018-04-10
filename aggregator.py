@@ -1,6 +1,6 @@
 # -----------------------------------------------------------------------------
 # Name:        aggregator.py
-# Purpose:     CS 21A - implement a simple general purpose aggregator
+# Purpose:     implement a simple general purpose aggregator
 #
 # Author:      Jennifer Wong
 # -----------------------------------------------------------------------------
